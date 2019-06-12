@@ -7,7 +7,7 @@ public class SpaceshipTouchControls : MonoBehaviour
     public float Speed = 10;
     public float MinY = -3.5f;
     public float MaxY = 3.5f;
-    public float XInfluence = 0;
+    public float XInfluence = -5;
 
 
 
